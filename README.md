@@ -1,4 +1,4 @@
-# community-rules
+# Community Rules
 some basic rules to follow.
 
 ## Read Our Notice
