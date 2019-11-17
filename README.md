@@ -3,7 +3,7 @@ some basic rules to follow.
 
 ## Read Our Notice
 
-Read Our Official Notice ，Click Here [Micro China Notice](https://github.com/micro-in-cn/Notice).
+Read Our Official Notice ，Click Here: [Micro China Notice](https://github.com/micro-in-cn/Notice).
 
 ## Join Here
 
