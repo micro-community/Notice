@@ -7,7 +7,7 @@ This is an open community around micro, you can publish these repo : Product、U
 
 ## Some Attention
 
-**Do not** create an empty repo, you **must add a readme.md** to your repo to describe what you want to do 
+**Do not** create an empty repo, you **must add a readme.md** to your repo to describe what you want to do ,team will audit it, if any problem, team will contact you.
 
 ## Read Our Notice
 
