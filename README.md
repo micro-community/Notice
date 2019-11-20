@@ -28,4 +28,4 @@ Read Our Official Notice ，Click Here: [Micro China Notice](https://github.com/
 
 ## Our Plan
 
-Visit [Our Plan](our-plan.md) to know more about Micro Open Community.
+Visit [Our Plan And Action](our-plan-and-action.md) to know more about Micro Open Community.
