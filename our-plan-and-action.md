@@ -1,5 +1,8 @@
 # Plan And Action
 
+Our members will write their goals and actions here .
+
+all members will write and add content together.
 
 ## Our Great Wish
 
@@ -9,7 +12,8 @@
 
 ## Our Plan 
 
-+ we wish build better documents.
++ we plan to build better documents.
++ we plan to add more tools.
 
 
 
