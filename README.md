@@ -1,9 +1,13 @@
 # Info
-some basic Information you should know.
+This is an open community around micro, but some basic Information you should know.
 
 ## What you can do 
 
-This is an open community around micro, you can publish these repo : Product、Unstable、ProtoType、Middle Components、Function Models、Code Snips ,which means nearly anything you want.
++ you can publish these repo : Product、Unstable、ProtoType、Middle Components、Function Models、Code Snips ,which means nearly anything you want.
++ you can gether a team to work for a awesome repo ,which may be created by you.
++ fork any [Repo in Micro China](https://github.com/micro-in-cn) to Community and work in it then creare PR Back to Main Repo.
++ Community make you and your team to work in only one repo.
+
 
 ## Some Attention
 
