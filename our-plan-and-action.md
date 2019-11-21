@@ -14,10 +14,13 @@ all members will write and add content together.
 
 + we plan to build better documents.
 + we plan to add more tools.
++ we plan to build a questions(FAQ) list.
 
 
 
 ## Our Action
+
++ [Questions(FAQ)](https://github.com/micro-in-cn/questions#micro%E9%97%AE%E9%A2%98%E9%9B%86faq) will collect frequent asked question to avoid always answer duplicate questions.
 
 + [Micro-Documents](https://github.com/micro-community/micro-doc) Team Lead By [@jackwener](https://github.com/jackwener).
   + 该仓库会贡献到下述两个仓库：
