@@ -17,7 +17,7 @@ This is an open community around micro, but some basic Information you should kn
 
 ## Read Our Notice
 
-Read Our Official Notice ，Click Here: [Micro China Notice](https://github.com/micro-in-cn/Notice).
+Read Our Official Notice to known great good，Click Here: [Micro China Notice](https://github.com/micro-in-cn/Notice).
 
 ## Join Micro Open Community
 
