@@ -12,9 +12,10 @@ all members will write and add content together.
 
 ## Our Plan 
 
-+ we plan to build better documents.
++ we plan to create better documents.
 + we plan to add more tools.
-+ we plan to build a questions(FAQ) list.
++ we plan to provide a questions(FAQ) list.
++ we plan to build a micro fileserver for simple OSS.
 
 
 
