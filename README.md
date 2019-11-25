@@ -23,7 +23,7 @@ Read Our Official Notice to known great good，Click Here: [Micro China Notice](
 
 + 在[Micro Open Community](https://github.com/micro-community)，你几乎可以发布任意Idea，并融入到Micro China.
 + 现在了解，并加入Micro开放平台[Join micro Open Community](https://github.com/micro-community/how-to-join).
-+ 加入[Micro Open Community](https://github.com/micro-community)开始，你就已经走在了通往[Micro China Team](https://github.com/micro-in-cn/Notice/blob/master/README.md#%E5%8A%A0%E5%85%A5micro-china-team)的路上.
++ 加入[Micro Open Community](https://github.com/micro-community)，你就已经走在了加入[Micro China Team](https://github.com/micro-in-cn/Notice/blob/master/README.md#%E5%8A%A0%E5%85%A5micro-china-team)的路上.
 + [了解更多...](https://github.com/micro-in-cn/Notice/blob/master/we-need-you.md).
 
 ## How To Start 
