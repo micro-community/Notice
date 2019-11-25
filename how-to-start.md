@@ -15,3 +15,7 @@ After joining [Micro China] ,you may ask :how should i start?
 + Publish your Draft Code to [Micro-Community](https://github.com/micro-community) with no considering.
 
 + Open discussion with members in an idea repo.
+
+## Some Attention
+
+**Do not** create an empty repo, you **must add a readme.md** to your repo to describe what you want to do ,team will audit it, if any problem, team will contact you.
