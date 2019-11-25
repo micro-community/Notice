@@ -11,9 +11,8 @@ This is an open community around micro, but some basic Information you should kn
 + community make you and your team to work in only one repo.
 + if you want directly write and push to some repo which was created by other, call community owner or the repo owner.
 
-## Some Attention
+[know more...](how-to-start.md).
 
-**Do not** create an empty repo, you **must add a readme.md** to your repo to describe what you want to do ,team will audit it, if any problem, team will contact you.
 
 ## Read Our Notice
 
