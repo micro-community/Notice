@@ -26,10 +26,11 @@ Read Our Official Notice to known great good，Click Here: [Micro China Notice](
 + 从加入[Micro Open Community](https://github.com/micro-community)开始，你将有机会加入[Micro China Team](https://github.com/micro-in-cn/Notice/blob/master/README.md#%E5%8A%A0%E5%85%A5micro-china-team).
 + [了解更多...](https://github.com/micro-in-cn/Notice/blob/master/we-need-you.md).
 
+## How To Start 
+
+After joining here, how to start your first line code ? [[Read Here](how-to-start.md)] to known more.
+
 ## Our Plan
 
 Visit [Our Plan And Action](our-plan-and-action.md) to know more about Micro Open Community.
 
-## How To Start 
-
-After joining here, how to start your first line code ? [[Read Here](how-to-start.md)] to known more.
