@@ -1,8 +1,6 @@
 # Plan And Action
 
-Our members will write their goals and actions here .
-
-all members will write and add content together.
+Our members will write their goals and actions here ,all members will write and add content together.
 
 ## Our Great Wish
 
