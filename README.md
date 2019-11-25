@@ -29,3 +29,7 @@ Read Our Official Notice to known great good，Click Here: [Micro China Notice](
 ## Our Plan
 
 Visit [Our Plan And Action](our-plan-and-action.md) to know more about Micro Open Community.
+
+## How To Start 
+
+After joining here, how to start your first line code ? [[Read Here](how-to-start.md)] to known more.
