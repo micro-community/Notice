@@ -23,17 +23,27 @@ Our members will write their goals and actions here ,all members will write and 
 
 ## Our Action
 
-+ [Questions(FAQ)](https://github.com/micro-in-cn/questions#micro%E9%97%AE%E9%A2%98%E9%9B%86faq) will collect frequent asked question to avoid always answer duplicate questions.
+### [Micro Docs](https://github.com/micro-in-cn/docs)
 
 + [Micro-Documents](https://github.com/micro-community/micro-doc) Team Lead By [@jackwener](https://github.com/jackwener).
   + 该仓库会贡献到下述两个仓库：
     + Micro China官方博客[https://micro.mu/blog/cn](https://github.com/micro-in-cn/blog)
     + Micro China文档仓库[Micro China Doc](https://github.com/micro-in-cn/docs).
   + 该仓库的目标是：存放Community成员们自己共享的文章，以及各路大神的文章，包括教程、理论、指南、说明等，并做好分类，对于其中与micro生态、架构、组件关系密切文章，审阅后，直接放到到我们官方的博客[https://micro.mu/blog/cn](https://github.com/micro-in-cn/blog)，质量较高的示范性文章，Merge到[Micro China Doc](https://github.com/micro-in-cn/docs).
-  + 工作模式是：所以成员直接共同工作于Fork仓库，然后定时合并回主仓库。
   
-+ [Micro-Questions](https://github.com/micro-community/questions) Team Lead By [@SkyWingZhang](https://github.com/SkyWingZhang).
-  + 该仓库会贡献到下述仓库：
-    + Micro China官方问题仓库[Micro questions](https://github.com/micro-in-cn/questions).
-  + 该仓库的目标是：存放Community成员们整理的各类FAQ问题项目，以帮助大家了解Micro。
-  + 工作模式是：所以成员直接共同工作于Fork仓库，然后定时合并回主仓库。
+### [Micro questions](https://github.com/micro-in-cn/questions)
+
++ [Micro questions](https://github.com/micro-in-cn/questions) Teams Lead By [@SkyWingZhang](https://github.com/SkyWingZhang).
++ 该仓库的目标是：存放Community成员们整理的各类FAQ问题项目，以帮助大家了解Micro，避免重复问题。
++ [@SkyWingZhang](https://github.com/SkyWingZhang) and all qmembers 直接在 [Micro-Community-Questions](https://github.com/micro-community/questions)中创建问题。
++ [Micro-Community-Questions](https://github.com/micro-community/questions) 仓库会被定期合回 Micro China官方问题仓库[Micro questions](https://github.com/micro-in-cn/questions).
+
+## 工作模式
+
++ 所有成员直接共同工作于Fork仓库，定期或者经常合并回主仓库.
+  
+  
+  ## 补充 
+  
+  Micro China 可能会根据实际需要，变更工作计划。
+
