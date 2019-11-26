@@ -44,7 +44,7 @@ Our members will write their goals and actions here ,all members will write and 
 + 所有成员直接共同工作于Fork仓库，定期或者经常合并回主仓库.
   
   
-  ## 补充 
+## 补充 
   
-  Micro China 可能会根据实际需要，变更工作计划。
+ Micro China 可能会根据实际需要，变更工作计划。
 
