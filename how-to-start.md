@@ -18,4 +18,6 @@ After joining [Micro China] ,you may ask :how should i start?
 
 ## Some Attention
 
-**Do not** create an empty repo, you **must add a readme.md** to your repo to describe what you want to do ,team will audit it, if any problem, team will contact you.
+**DO NOT** create an empty repo, you **must add a readme.md** to your repo to describe what you want to do ,team will audit it, if any problem, team will contact you.
+
+不要创建空仓库，务必添加README.md表明该仓库的目的和计划。
