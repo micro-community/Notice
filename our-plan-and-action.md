@@ -45,7 +45,7 @@ Our members will write their goals and actions here ,all members will write and 
 
 ### [Micro Docs](https://github.com/micro-in-cn/docs)
 
-+ micro China官方文档仓库，目前正在更新...
++ micro China官方文档仓库
 
 + 该仓库的目的是存放micro china的官方文档，目前正在更新...
 
