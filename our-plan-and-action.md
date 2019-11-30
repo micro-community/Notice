@@ -20,9 +20,13 @@ Our members will write their goals and actions here ,all members will write and 
 
 在成员个人层次上，我们的更希望成员产生内容，鼓励成员用自己擅长的技术，围绕Go-micro，做自己想做的任何事情。
 
+我们一直相信，兴趣是最好的老师，是兴趣让你不断去创新。
+
 + 如果你有很多活跃的想法，想做任何东西，或者想拉几个伙伴一起做事，just do it(直接去做吧)，无需商量。
 
   + 当然，如果进展的很好，Team可以商量一下将其标准化。
+
++ 我们很希望看到，在go-micro生态里，你能朝着独当一面甚至更大的目标发展，比如，领导一个项目，负责一个仓库，负责几类问题别。
 
 ## Our Plan 
 
