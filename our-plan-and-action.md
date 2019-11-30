@@ -8,6 +8,20 @@ Our members will write their goals and actions here ,all members will write and 
 
 [Click Here](https://github.com/micro-in-cn/tutorials#%E6%84%BF%E6%99%AF) You will know more.
 
+## Our Idea
+
+Micro China(下称：我们)的整体节奏上：我们不要做重复的事，确保我们的成员之间在信息上全局同步。
+
+我们的做法是：大家使用同一个仓库，紧密协同，活跃互动，无需Fork到个人仓库。
+
++ 我们内部确保一个方面的事情或者一个问题点，至少有一到两个owner，以保证不同的事情能有序进展。
+
++ 作为负责的某个项目/问题/仓库的owner ，如果能决定就尽量直接决定，必要时候发起讨论，involve相关成员。
+
++ 如果你个人有很多活跃的想法，想做任何东西，或者想拉几个伙伴一起做事，就直接去做，无需商量。
+
+  + 如果进展的很好，Team可以商量一下将其标准化。
+
 ## Our Plan 
 
 + we plan to build a starter-kit project.
