@@ -10,7 +10,7 @@ Our members will write their goals and actions here ,all members will write and 
 
 ## Our Idea
 
-Micro China(下称：我们)的整体节奏：组织层次上，成员之间不做重复的事，确保成员之间在关键信息上的全局同步。
+在组织层次上，Micro China(下称：我们)的整体节奏：成员之间不做重复的事，确保成员之间在关键信息上的全局同步。
 
 我们的做法是：针对同一个问题/项目/计划，我们使用同一个仓库，紧密协同，活跃互动，无需Fork到个人仓库。
 
