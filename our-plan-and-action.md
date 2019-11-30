@@ -49,7 +49,7 @@ Our members will write their goals and actions here ,all members will write and 
 
 + 该仓库的目的是存放micro china的官方文档，目前正在更新...
 
-### [Micro-archives](https://github.com/micro-community/archives)
+### [Micro Archives](https://github.com/micro-community/archives)
 
 + [Micro Archives](https://github.com/micro-community/archives) Lead By [@jackwener](https://github.com/jackwener).
 + 该仓库的目标是：存放Community成员们自己共享的文章，以及各路大神的文章，包括教程、理论、指南、说明等，并做好分类，对于其中与micro生态、架构、组件关系密切文章，审阅后，直接放到到我们官方的博客[https://micro.mu/blog/cn](https://github.com/micro-in-cn/blog)，质量较高的示范性文章，Merge到[Micro China Doc](https://github.com/micro-in-cn/docs).
