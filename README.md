@@ -2,6 +2,10 @@
 
 This is an open community around micro, but some basic Information you should know.
 
+## How to Join
+
++ [Clik Here](how-to-join.md) to know
+
 ## What you can do 
 
 + you can publish these repo : Product、Unstable、Prototype、Middle Components、Function Models、Code Snips ,which means nearly anything you want.
@@ -12,10 +16,6 @@ This is an open community around micro, but some basic Information you should kn
 + if you want directly write and push to some repo which was created by other, call community owner or the repo owner.
 + [click to know more...](how-to-start.md).
 
-
-## How to Join
-
-+ [Clik Here](how-to-join.md) to known
 
 ## Read Our Notice
 
