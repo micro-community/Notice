@@ -6,7 +6,7 @@ After joining [Micro China] ,you may ask :how should i start?
 
 + Publish your awesome project to [Micro-In-China](https://github.com/micro-in-cn), if you consider it ready.
 
-+ Publish your developing project to [Micro-Community](https://github.com/micro-community) with no considering.
++ Transfer your developing project to [Micro-Community](https://github.com/micro-community) with no considering.
 
 + Create an Idea Repo and try to start coding.
 
