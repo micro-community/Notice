@@ -10,9 +10,11 @@ After joining [Micro China] ,you may ask :how should i start?
 
 + Transfer your developing project to [Micro-Community](https://github.com/micro-community) with no considering. 
 
-    无需要跟任何沟通，将你正在开发的项目直接转移到 [Micro-Community](https://github.com/micro-community)，让成员们一起参与.
+    无需要跟任何沟通，将你正在开发的项目转移到 [Micro-Community](https://github.com/micro-community)，让成员们一起参与.
 
-+ Create an Idea Repo and try to start coding.
++ Create an Idea Repo in [Micro-Community](https://github.com/micro-community) and try to start coding with no considering
+
+    不用有任何顾虑，用你的现在想法，在[Micro-Community](https://github.com/micro-community)中创建一个仓库，并且马上去为它Coding.
 
 + Open your Unstable Componentes to [Micro-Community](https://github.com/micro-community) with no considering.
 
