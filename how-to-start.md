@@ -20,6 +20,13 @@ After joining [Micro China] ,you may ask :how should i start?
 
 + Publish your Draft Code to [Micro-Community](https://github.com/micro-community) with no considering.
 
++ Join Any repo that you liked in [Micro-In-China](https://github.com/micro-in-cn) and [Micro-Community](https://github.com/micro-community)  .
+
+    在[Micro-In-China](https://github.com/micro-in-cn) and [Micro-Community](https://github.com/micro-community)中，加入你感兴趣的任何仓库。
+    
++ migrate a project to go-micro and publish it to  [Micro-Community](https://github.com/micro-community) with no considering
+
+
 + Open discussion with members in an idea repo.
 
 ## Some Attention
