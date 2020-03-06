@@ -25,9 +25,21 @@ After joining [Micro China] ,you may ask :how should i start?
     在[Micro-In-China](https://github.com/micro-in-cn) and [Micro-Community](https://github.com/micro-community)中，加入你感兴趣的任何仓库。
     
 + migrate a project to go-micro and publish it to  [Micro-Community](https://github.com/micro-community) with no considering
+    
+    迁移一个项目到go-micro框架上,并发布到这里.
+    
++ Translate an article of go-micro
 
-
+    翻译一遍go-micro的文章。
+    
 + Open discussion with members in an idea repo.
+
+    在一个想法性质的仓库中展开讨论。
+
++ Collect some awesome projects around go-mciro  and publish to [[awesome-micro](https://github.com/micro-community/awesome-micro)]
+    
+    收集一些你觉得好的go-micro的项目，并发布到 [[awesome-micro](https://github.com/micro-community/awesome-micro)]列表
+
 
 ## Some Attention
 
