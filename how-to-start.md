@@ -18,7 +18,12 @@ After joining [Micro China] ,you may ask :how should i start?
 
 + Open your Unstable Componentes to [Micro-Community](https://github.com/micro-community) with no considering.
 
+    将你的正在开发都组件开源到这里.
+
+
 + Publish your Draft Code to [Micro-Community](https://github.com/micro-community) with no considering.
+
+    将你的代码草稿发布到这里.
 
 + Join Any repo that you liked in [Micro-In-China](https://github.com/micro-in-cn) and [Micro-Community](https://github.com/micro-community)  .
 
