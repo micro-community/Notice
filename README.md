@@ -2,6 +2,8 @@
 
 This is an open community around micro, but some basic Information you should know.
 
+Members can publish repos: including Product、Unstable、Prototype、Draft、Idea、Middle Components、Function Models、Code Snips etc.
+
 ## How to Join
 
 + [Clik Here](how-to-join.md) to know
