@@ -4,7 +4,7 @@ This is an community around service、micro、golang 、framework, but some basi
 
 Members can publish repos: including Product、Unstable、Prototype、Draft、Idea、Middle Components、Function Models、Code Snips etc.
 
-最大程度的复用服务而不是重新造轮子.
+最大程度的复用服务而不是重新造轮子,除非真的很必要。
 
 ## How to Join
 
